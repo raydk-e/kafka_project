@@ -1,3 +1,6 @@
+"""
+This is producer code
+"""
 import json, time , random
 from kafka import KafkaProducer
 
